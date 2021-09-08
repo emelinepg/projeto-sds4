@@ -23,7 +23,6 @@ function App() {
 
         <div className="py-3">
           <h2 className="text-primary">Todas as vendas</h2>
-          <BarChart />
         </div>
         <DataTable />
       </div>
